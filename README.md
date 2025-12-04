@@ -6,11 +6,17 @@ You can try the game using either method below:
 1️⃣ Download the .rblx File from GitHub
 
 a). Go to the Releases tab or open the folder where the .rblx file is stored.
+
 b). Click the file SUKI_PARKOUR_EASY_MODE.rblx.
+
 c). Download the file.
+
 d). Open Roblox Studio.
+
 e). Select File → Open…
+
 f). Locate and open the downloaded .rblx file.
+
 g). Press Play to test the game directly in Roblox Studio.
 
 2️⃣ Play Directly on Roblox
